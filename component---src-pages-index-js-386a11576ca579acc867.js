@@ -1,0 +1,1 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{704:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return r}});var a=n(294);function r(){return a.createElement("div",null,"this is a page that contains main development stuff")}}}]);

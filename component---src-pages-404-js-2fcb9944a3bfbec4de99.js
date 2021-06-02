@@ -1,0 +1,1 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[883],{616:function(e,t,l){"use strict";l.r(t),l.d(t,{default:function(){return n}});var r=l(294);function n(){return r.createElement("div",null,r.createElement("h2",null,"404"),r.createElement("p",null,"Sorry Page Not found"))}}}]);
